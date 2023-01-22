@@ -1,0 +1,13 @@
+100 50
+5 5 w
+ml
+5 70 s
+mm
+8 8 e
+mmrm
+8 9 s
+mmlllll
+8 9 s
+mmlllll
+9 8 s
+mmlllll
